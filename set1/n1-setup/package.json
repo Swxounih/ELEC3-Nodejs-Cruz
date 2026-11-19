@@ -1,0 +1,15 @@
+{
+  "name": "n1-setup",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "nodejs"
+  ],
+  "license": "ISC",
+  "author": "Armel Meinard Y. Cruz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
