@@ -1,0 +1,21 @@
+{
+  "name": "n1-setup",
+  "version": "1.0.0",
+  "description": "N1 Project Setup and Package Managemen",
+  "keywords": [
+    "nodejs"
+  ],
+  "license": "ISC",
+  "author": "Armel Meinard Y. Cruz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.10.1"
+  }
+}
