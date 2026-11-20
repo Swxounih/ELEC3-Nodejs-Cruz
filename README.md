@@ -7,9 +7,8 @@
 
 #### Set 1
 
-| **No.** | **Title** | **Status** | **How to Run** |
-| :--- | :---: | :---: | :--- | 
-| n1-setup | Project Setup and Package Management  | done |  **1.**`npm install express`, **2.**`npm install prettier`, **3.** `npm start` or `node index.js` |
-
-
+| **No.** |           **Title**           | **Status** | **How to Run**                                                                                                       |
+| :------------ | :----------------------------------: | :--------------: | :------------------------------------------------------------------------------------------------------------------------- |
+| n1-setup      | Project Setup and Package Management |       done       | **1.**`npm install express`, **2.**`npm install prettier`, **3.** `npm start` or `node index.js` |
+|n2-calculator| Modular Calculator | done | **1.**`npm start num1 [operator of your choice] num2 ` or simple in the n2-calculator diretory simple type the n1 operator n2 [for example 12+2]|
 
